@@ -1,0 +1,59 @@
+Krukoveczkiy Fedot Erofeevich
+Position1
+1990
+Boryaev Silvestr Narczissovich
+Position2
+1991
+Klokachev Avdey Silich
+Position3
+1992
+Maykov Ahramey Afonevich
+Position4
+1993
+Vatalin Afanasiy Svetozarovich
+Position5
+1994
+Kadnikov Demyan Konstantinovich
+Position6
+1995
+Domozhirov Germogen Anikeevich
+Position7
+1996
+Rihter Kassian Vyacheslavovich
+Position8
+1997
+Karpenko Ustin Ioannovich
+Position9
+1998
+Filippov Parmen Arefevich
+Position10
+1999
+Bazilevskiy Ostafiy Miroslavovich
+Position11
+2000
+Bobynin Agafodor Vadimovich
+Position12
+2001
+Kaznakov Gektor Melentevich
+Position13
+2002
+Masalov Valaam Harlampievich
+Position14
+2003
+Leonovich Fedosiy Ilarievich
+Position15
+2004
+Bokastov Zotik Bazilevich
+Position16
+2005
+Tumanskiy Satir Narczissovich
+Position17
+2006
+Alferov Sisoy Patrikeevich
+Position18
+2007
+Solomereczkiy Feodosiy Kapitonovich
+Position19
+2008
+Shhigolev Zinoviy Kornelievich
+Position20
