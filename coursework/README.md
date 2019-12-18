@@ -1,4 +1,4 @@
-# coursework[Workers]
+# coursework[Workers] Console program
 
 Implement a linear list in which Worker data will be stored (Name, position, year).
 Search task: to find workers whose work experience exceeds the value entered by the user
